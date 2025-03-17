@@ -19,14 +19,15 @@ After experimenting, I found that simply **modifying the kernel name** inside th
 ## **Requirements**
 - Rooted Android device with **TWRP** (or any method to extract boot.img)  
 - Linux environment (**Debian**, Ubuntu, might be possible in termux)  
-- [`hexedit`](https://packages.debian.org/bookworm/hexedit) installed:
+- [`hexedit`](https://packages.debian.org/bookworm/hexedit) installed:  
   ```sh
   sudo apt install hexedit
   ```
-- [`Kitchen`](https://github.com/ravindu644/Kitchen) for unpacking/repacking boot.img:
+- [`Kitchen`](https://github.com/ravindu644/Kitchen) for unpacking/repacking boot.img:  
   ```sh
   git clone https://github.com/ravindu644/Kitchen.git
-  ```
+  ```  
+You should be able to use some diferent tool like magisk to unpack the boot.img
 
 ---
 
