@@ -1,4 +1,4 @@
-# **Changing Kernel Name to Avoid Detection from Play Integrity**  
+# **Changing Kernel Name to Avoid Detection from Play Integrity without kernel compile**  
 
 ## **Why This Guide?**  
 I was trying to pass **Play Integrity** on my rooted device using **Play Integrity Fix** with Magisk. I followed multiple tutorials and wasted a whole day trying to make it work, but nothing helped. Finally, I checked the **GitHub**, and guess what? **Play Integrity now checks the kernel name, too!**  
